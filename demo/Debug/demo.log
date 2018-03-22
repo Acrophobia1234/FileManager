@@ -1,0 +1,4 @@
+﻿  demo.cpp
+d:\projectdiy\filemanager\demo\demo.cpp(59): warning C4477: “wprintf”: 格式字符串“%I64d”需要类型“__int64”的参数，但可变参数 1 拥有了类型“LARGE_INTEGER”
+  demo.vcxproj -> D:\ProjectDIY\FileManager\Debug\demo.exe
+  demo.vcxproj -> D:\ProjectDIY\FileManager\Debug\demo.pdb (Full PDB)

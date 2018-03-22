@@ -1,0 +1,5 @@
+﻿  FileManagerDlg.cpp
+d:\projectdiy\filemanager\filemanager\filemanagerdlg.cpp(443): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+d:\projectdiy\filemanager\filemanager\filemanagerdlg.cpp(444): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  FileManager.vcxproj -> D:\ProjectDIY\FileManager\Debug\FileManager.exe
+  FileManager.vcxproj -> D:\ProjectDIY\FileManager\Debug\FileManager.pdb (Full PDB)
